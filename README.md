@@ -51,6 +51,51 @@
       </td>
     </tr>
   </table>
+<!-- Tabela 2 -->
+    <table>
+    <tr>
+      <td>
+        <img src="/Fotos/googlebl.png" width=200 alt="Google Black">
+      </td>
+      <td>
+        <img src="/Fotos/googlew.png" width=200 alt="Google White">
+      </td>
+      <td>
+        <img src="/Fotos/aicpbl.png" width=200 alt="AICP">
+      </td>
+      <td>
+        <img src="/Fotos/aicpew.png" width=200 alt="AICP">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Google </strong>
+      </td>
+      <td>
+        <strong>Google </strong>
+      </td>
+      <td>
+        <strong>Aicp CUSTOM ROM</strong>
+      </td>
+      <td>
+        <strong>Aicp CUSTOM ROM</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/Google-1.bin">Download</a>
+      </td>
+      <td>
+        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/Google-2.bin">Download</a>
+      </td>
+      <td>
+        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/aicp-1.bin">Download</a>
+      </td>
+      <td>
+        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/aicp-2.bin">Download</a>
+      </td>
+    </tr>
+  </table>
 </center>
   
 </body>
