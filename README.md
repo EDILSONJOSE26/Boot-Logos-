@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-MOTO G100
+Compatível apenas com o Motorola G100.
 <center>
   <table>
     <tr>
