@@ -78,7 +78,7 @@
         <strong>Lineage</strong>
       </td>
       <td>
-        <strong>IV</strong>
+        <strong>VI</strong>
       </td>
     </tr>
     <tr>
