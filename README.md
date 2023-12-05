@@ -55,44 +55,44 @@
     <table>
     <tr>
       <td>
-        <img src="/Fotos/googlebl.png" width=200 alt="Google Black">
+        <img src="/Fotos/evolution.png" width=200 alt="Evolution">
       </td>
       <td>
-        <img src="/Fotos/googlew.png" width=200 alt="Google White">
+        <img src="/Fotos/spark.jpg" width=200 alt="Spark">
       </td>
       <td>
-        <img src="/Fotos/aicpbl.png" width=200 alt="AICP">
+        <img src="/Fotos/lineage.png" width=200 alt="Lineage">
       </td>
       <td>
-        <img src="/Fotos/aicpew.png" width=200 alt="AICP">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Google </strong>
-      </td>
-      <td>
-        <strong>Google </strong>
-      </td>
-      <td>
-        <strong>Aicp CUSTOM ROM</strong>
-      </td>
-      <td>
-        <strong>Aicp CUSTOM ROM</strong>
+        <img src="/Fotos/GTA6.png" width=200 alt="AICP">
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/Google-1.bin">Download</a>
+        <strong>Evolution </strong>
       </td>
       <td>
-        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/Google-2.bin">Download</a>
+        <strong>Spark </strong>
       </td>
       <td>
-        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/aicp-1.bin">Download</a>
+        <strong>Lineage</strong>
       </td>
       <td>
-        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/aicp-2.bin">Download</a>
+        <strong>IV</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/evolution.bin">Download</a>
+      </td>
+      <td>
+        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/spark.bin">Download</a>
+      </td>
+      <td>
+        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/lineage.bin">Download</a>
+      </td>
+      <td>
+        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/VI.bin">Download</a>
       </td>
     </tr>
   </table>
