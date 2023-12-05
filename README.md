@@ -30,18 +30,24 @@
         <strong>Google </strong>
       </td>
       <td>
-        <strong>Aicp </strong>
+        <strong>Aicp CUSTOM ROM</strong>
       </td>
       <td>
-        <strong>Aicp </strong>
+        <strong>Aicp CUSTOM ROM</strong>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/Google-1.bin">Download</a>
+        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/Google-1.bin"<center>Download</center>/a>
       </td>
       <td>
-        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/Google-2.bin">Download</a>
+        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/Google-2.bin"<center>Download</center></a>
+      </td>
+      <td>
+        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/aicp-1.bin"<center>Download</center></a>
+      </td>
+      <td>
+        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/aicp-2.bin"<center>Download</center></a>
       </td>
     </tr>
   </table>
