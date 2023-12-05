@@ -64,7 +64,7 @@
         <img src="/Fotos/lineage.png" width=200 alt="Lineage">
       </td>
       <td>
-        <img src="/Fotos/GTA6.png" width=200 alt="AICP">
+        <img src="/Fotos/GTA6.png" width=200 alt="GTA6">
       </td>
     </tr>
     <tr>
