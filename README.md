@@ -15,13 +15,25 @@
       <td>
         <img src="/Fotos/googlew.png" width=200 alt="Google White">
       </td>
+      <td>
+        <img src="/Fotos/aicpbl.png" width=200 alt="AICP">
+      </td>
+      <td>
+        <img src="/Fotos/aicpew.png" width=200 alt="AICP">
+      </td>
     </tr>
     <tr>
       <td>
-        <strong>Google Pixel</strong>
+        <strong>Google </strong>
       </td>
       <td>
-        <strong>Google Pixel</strong>
+        <strong>Google </strong>
+      </td>
+      <td>
+        <strong>Aicp </strong>
+      </td>
+      <td>
+        <strong>Aicp </strong>
       </td>
     </tr>
     <tr>
