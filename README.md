@@ -64,7 +64,7 @@ Compatível apenas com o Motorola G100.
         <img src="/Fotos/lineage.png" width=200 alt="Lineage">
       </td>
       <td>
-        <img src="/Fotos/GTA6.png" width=200 alt="GTA6">
+        <img src="/Fotos/ProjectBlaze" width=200 alt="ProjectBlaze">
       </td>
     </tr>
     <tr>
@@ -78,7 +78,7 @@ Compatível apenas com o Motorola G100.
         <strong>Lineage</strong>
       </td>
       <td>
-        <strong>VI</strong>
+        <strong>Project Blaze</strong>
       </td>
     </tr>
     <tr>
@@ -92,7 +92,7 @@ Compatível apenas com o Motorola G100.
         <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/lineage.bin">Download</a>
       </td>
       <td>
-        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/VI.bin">Download</a>
+        <a href="https://github.com/EDILSONJOSE26/Boot-Logos-/raw/main/bin/ProjectBlaze.bin">Download</a>
       </td>
     </tr>
   </table>
