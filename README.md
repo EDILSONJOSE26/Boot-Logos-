@@ -64,7 +64,7 @@ Compatível apenas com o Motorola G100.
         <img src="/Fotos/lineage.png" width=200 alt="Lineage">
       </td>
       <td>
-        <img src="/Fotos/ProjectBlaze" width=200 alt="ProjectBlaze">
+        <img src="/Fotos/ProjectBlaze.png" width=200 alt="ProjectBlaze">
       </td>
     </tr>
     <tr>
